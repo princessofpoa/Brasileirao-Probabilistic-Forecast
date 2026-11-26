@@ -1,0 +1,361 @@
+37ª | 24/11 | Chapecoense 3 x 0 Palmeiras
+36ª | 25/11 | Atlético-MG 1 x 1 Corinthians
+36ª | 23/11 | Santos 0 x 2 Grêmio
+36ª | 23/11 | Botafogo 1 x 1 São Paulo
+36ª | 23/11 | Internacional 2 x 5 Vitória
+36ª | 22/11 | Bragantino 1 x 0 Vasco
+36ª | 22/11 | Fluminense 1 x 0 Mirassol
+36ª | 21/11 | Athletico-PR 4 x 2 Remo
+36ª | 21/11 | Chapecoense 1 x 2 Cruzeiro
+36ª | 21/11 | Bahia 0 x 1 Coritiba
+36ª | 21/11 | Palmeiras 1 x 1 Flamengo
+35ª | 19/11 | São Paulo 0 x 1 Fluminense
+35ª | 19/11 | Vasco 2 x 1 Internacional
+35ª | 19/11 | Vitória 2 x 1 Bragantino
+35ª | 18/11 | Corinthians 4 x 0 Botafogo
+35ª | 18/11 | Grêmio 0 x 0 Bahia
+35ª | 18/11 | Cruzeiro 2 x 1 Palmeiras
+35ª | 18/11 | Flamengo 2 x 1 Athletico-PR
+35ª | 18/11 | Remo 2 x 0 Chapecoense
+35ª | 18/11 | Coritiba 0 x 1 Santos
+35ª | 14/11 | Mirassol 0 x 0 Atlético-MG
+21ª | 14/11 | Chapecoense 0 x 2 Vasco
+21ª | 03/10 | Atlético-MG 1 x 0 Bragantino
+21ª | 02/10 | São Paulo 1 x 2 Santos
+21ª | 16/09 | Botafogo 3 x 2 Grêmio
+21ª | 30/07 | Coritiba 0 x 1 Cruzeiro
+21ª | 30/07 | Corinthians 0 x 0 Athletico-PR
+21ª | 29/07 | Fluminense 0 x 0 Bahia
+21ª | 29/07 | Vitória 0 x 4 Palmeiras
+21ª | 29/07 | Internacional 1 x 1 Flamengo
+21ª | 29/07 | Mirassol 2 x 1 Remo
+34ª | 06/11 | Vitória 0 x 3 Fluminense
+34ª | 05/11 | Cruzeiro 3 x 2 Bahia
+34ª | 05/11 | Palmeiras 6 x 1 Remo
+34ª | 04/11 | Botafogo 1 x 0 Atlético-MG
+34ª | 04/11 | São Paulo 0 x 0 Corinthians
+34ª | 04/11 | Athletico-PR 1 x 3 Vasco
+34ª | 04/11 | Flamengo 3 x 1 Grêmio
+34ª | 03/11 | Internacional 1 x 0 Coritiba
+34ª | 03/11 | Chapecoense 1 x 2 Mirassol
+34ª | 02/11 | Bragantino 2 x 1 Santos
+33ª | 31/10 | Coritiba 2 x 0 Vitória
+33ª | 30/10 | Corinthians 2 x 0 Mirassol
+33ª | 29/10 | Grêmio 2 x 0 Athletico-PR
+33ª | 29/10 | Vasco 1 x 4 Flamengo
+33ª | 29/10 | Atlético-MG 0 x 1 Cruzeiro
+33ª | 28/10 | Bahia 3 x 2 São Paulo
+33ª | 28/10 | Remo 2 x 1 Botafogo
+33ª | 28/10 | Bragantino 3 x 0 Chapecoense
+33ª | 28/10 | Fluminense 2 x 1 Internacional
+33ª | 28/10 | Santos 0 x 0 Palmeiras
+32ª | 26/10 | Flamengo 3 x 2 Atlético-MG
+32ª | 26/10 | Coritiba 0 x 1 Grêmio
+32ª | 24/10 | Santos 1 x 1 Bahia
+32ª | 24/10 | Chapecoense 2 x 1 Fluminense
+32ª | 24/10 | Palmeiras 2 x 0 Bragantino
+32ª | 24/10 | Vasco 3 x 2 Corinthians
+32ª | 24/10 | Internacional 3 x 0 Botafogo
+32ª | 24/10 | Mirassol 1 x 1 São Paulo
+32ª | 24/10 | Vitória 1 x 1 Athletico-PR
+32ª | 23/10 | Cruzeiro 1 x 0 Remo
+31ª | 19/10 | Corinthians 1 x 1 Vitória
+31ª | 18/10 | Remo 1 x 1 Bragantino
+31ª | 18/10 | Bahia 0 x 3 Flamengo
+31ª | 18/10 | Fluminense 1 x 2 Santos
+31ª | 18/10 | Grêmio 2 x 4 Cruzeiro
+31ª | 17/10 | São Paulo 1 x 0 Vasco
+31ª | 17/10 | Athletico-PR 0 x 2 Palmeiras
+31ª | 17/10 | Atlético-MG 1 x 0 Coritiba
+31ª | 17/10 | Botafogo 1 x 0 Chapecoense
+31ª | 16/10 | Mirassol 2 x 0 Internacional
+30ª | 12/10 | Bragantino 4 x 2 Cruzeiro
+30ª | 12/10 | Chapecoense 1 x 4 Athletico-PR
+30ª | 12/10 | Coritiba 1 x 1 Botafogo
+30ª | 11/10 | Bahia 1 x 0 Mirassol
+30ª | 11/10 | Flamengo 1 x 0 Fluminense
+30ª | 11/10 | Grêmio 1 x 1 Internacional
+30ª | 11/10 | Palmeiras 4 x 1 Corinthians
+30ª | 11/10 | Atlético-MG 2 x 1 Santos
+30ª | 10/10 | São Paulo 2 x 1 Vitória
+30ª | 10/10 | Vasco 0 x 0 Remo
+29ª | 08/10 | Fluminense 4 x 0 Coritiba
+29ª | 08/10 | Palmeiras 1 x 0 Bahia
+29ª | 08/10 | Athletico-PR 2 x 2 Atlético-MG
+29ª | 08/10 | Santos 2 x 2 Flamengo
+29ª | 07/10 | Cruzeiro 2 x 0 São Paulo
+29ª | 07/10 | Botafogo 1 x 2 Vasco
+29ª | 07/10 | Vitória 4 x 0 Chapecoense
+29ª | 07/10 | Bragantino 1 x 1 Mirassol
+29ª | 07/10 | Internacional 2 x 1 Corinthians
+29ª | 07/10 | Remo 1 x 1 Grêmio
+28ª | 20/09 | Athletico-PR 2 x 1 Bahia
+28ª | 20/09 | Flamengo 2 x 1 Bragantino
+28ª | 20/09 | Corinthians 1 x 3 Fluminense
+28ª | 20/09 | Vitória 1 x 3 Cruzeiro
+28ª | 20/09 | Grêmio 0 x 0 Palmeiras
+28ª | 19/09 | São Paulo 1 x 0 Internacional
+28ª | 19/09 | Vasco 5 x 0 Coritiba
+28ª | 19/09 | Remo 1 x 2 Santos
+28ª | 19/09 | Mirassol 2 x 0 Botafogo
+28ª | 19/09 | Atlético-MG 1 x 1 Chapecoense
+27ª | 14/09 | Bahia 2 x 1 Remo
+27ª | 13/09 | Flamengo 2 x 1 Corinthians
+27ª | 13/09 | Mirassol 2 x 2 Vitória
+27ª | 12/09 | Santos 2 x 1 Cruzeiro
+27ª | 12/09 | Botafogo 1 x 1 Bragantino
+27ª | 12/09 | Palmeiras 2 x 0 São Paulo
+27ª | 12/09 | Chapecoense 1 x 2 Internacional
+27ª | 12/09 | Atlético-MG 3 x 1 Fluminense
+27ª | 12/09 | Grêmio 1 x 2 Vasco
+27ª | 11/09 | Coritiba 3 x 3 Athletico-PR
+26ª | 07/09 | Vitória 1 x 0 Grêmio
+26ª | 06/09 | Corinthians 1 x 2 Chapecoense
+26ª | 06/09 | Botafogo 0 x 0 Palmeiras
+26ª | 06/09 | Cruzeiro 3 x 1 Athletico-PR
+26ª | 06/09 | Internacional 2 x 3 Santos
+26ª | 06/09 | Remo 0 x 1 Flamengo
+26ª | 06/09 | Coritiba 1 x 2 Mirassol
+26ª | 05/09 | Fluminense 1 x 0 Vasco
+26ª | 05/09 | São Paulo 2 x 0 Atlético-MG
+26ª | 05/09 | Bragantino 2 x 3 Bahia
+4ª | 02/09 | Flamengo 2 x 0 Mirassol
+4ª | 23/07 | Botafogo 0 x 0 Vitória
+4ª | 17/07 | Bahia 2 x 0 Chapecoense
+4ª | 26/02 | Santos 2 x 1 Vasco
+4ª | 25/02 | Grêmio 2 x 1 Atlético-MG
+4ª | 25/02 | Palmeiras 2 x 1 Fluminense
+4ª | 25/02 | Cruzeiro 1 x 1 Corinthians
+4ª | 25/02 | Coritiba 0 x 1 São Paulo
+4ª | 25/02 | Bragantino 1 x 1 Athletico-PR
+4ª | 25/02 | Remo 1 x 1 Internacional
+25ª | 31/08 | Remo 2 x 3 Coritiba
+25ª | 30/08 | Bahia 3 x 2 Internacional
+25ª | 30/08 | Grêmio 3 x 1 Chapecoense
+25ª | 30/08 | Mirassol 1 x 1 Palmeiras
+25ª | 30/08 | Corinthians 0 x 1 Santos
+25ª | 30/08 | Flamengo 3 x 0 Botafogo
+25ª | 30/08 | Athletico-PR 3 x 3 Fluminense
+25ª | 29/08 | Vasco 3 x 1 Cruzeiro
+25ª | 29/08 | São Paulo 2 x 1 Bragantino
+25ª | 29/08 | Atlético-MG 2 x 1 Vitória
+24ª | 24/08 | Botafogo 2 x 3 Athletico-PR
+24ª | 23/08 | Coritiba 2 x 1 Corinthians
+24ª | 23/08 | Chapecoense 1 x 0 São Paulo
+24ª | 23/08 | Santos 1 x 1 Mirassol
+24ª | 23/08 | Bragantino 1 x 0 Grêmio
+24ª | 23/08 | Palmeiras 4 x 1 Vasco
+24ª | 23/08 | Vitória 0 x 2 Bahia
+24ª | 22/08 | Cruzeiro 2 x 1 Flamengo
+24ª | 22/08 | Internacional 0 x 0 Atlético-MG
+24ª | 22/08 | Fluminense 2 x 1 Remo
+23ª | 17/08 | Internacional 1 x 1 Remo
+23ª | 16/08 | Corinthians 1 x 2 Cruzeiro
+23ª | 16/08 | Mirassol 1 x 5 Flamengo
+23ª | 16/08 | Vitória 1 x 0 Botafogo
+23ª | 16/08 | Atlético-MG 3 x 0 Grêmio
+23ª | 16/08 | Vasco 0 x 3 Santos
+23ª | 16/08 | Chapecoense 3 x 3 Bahia
+23ª | 15/08 | São Paulo 1 x 1 Coritiba
+23ª | 15/08 | Athletico-PR 1 x 1 Bragantino
+23ª | 15/08 | Fluminense 3 x 2 Palmeiras
+22ª | 09/08 | Flamengo 2 x 0 Vitória
+22ª | 09/08 | Bragantino 0 x 2 Corinthians
+22ª | 09/08 | Santos 0 x 2 Athletico-PR
+22ª | 09/08 | Bahia 0 x 0 Vasco
+22ª | 09/08 | Palmeiras 0 x 0 Internacional
+22ª | 09/08 | Cruzeiro 3 x 1 Mirassol
+22ª | 08/08 | Botafogo 1 x 1 Fluminense
+22ª | 08/08 | Coritiba 2 x 1 Chapecoense
+22ª | 08/08 | Remo 2 x 2 Atlético-MG
+22ª | 08/08 | Grêmio 2 x 1 São Paulo
+20ª | 26/07 | Palmeiras 1 x 2 Atlético-MG
+20ª | 26/07 | Remo 2 x 0 Vitória
+20ª | 26/07 | Bragantino 0 x 0 Coritiba
+20ª | 26/07 | Flamengo 1 x 1 São Paulo
+20ª | 26/07 | Grêmio 1 x 1 Fluminense
+20ª | 26/07 | Bahia 1 x 1 Corinthians
+20ª | 26/07 | Cruzeiro 0 x 1 Botafogo
+20ª | 25/07 | Vasco 1 x 1 Mirassol
+20ª | 25/07 | Athletico-PR 2 x 0 Internacional
+20ª | 25/07 | Santos 2 x 2 Chapecoense
+19ª | 23/07 | Corinthians 3 x 0 Remo
+19ª | 22/07 | Chapecoense 0 x 4 Flamengo
+19ª | 22/07 | Internacional 1 x 2 Cruzeiro
+19ª | 22/07 | São Paulo 1 x 2 Athletico-PR
+19ª | 22/07 | Coritiba 1 x 3 Palmeiras
+19ª | 21/07 | Atlético-MG 1 x 1 Bahia
+19ª | 17/07 | Fluminense 1 x 1 Bragantino
+19ª | 17/07 | Mirassol 2 x 1 Grêmio
+19ª | 16/07 | Botafogo 2 x 1 Santos
+19ª | 16/07 | Vitória 1 x 0 Vasco
+18ª | 31/05 | Cruzeiro 1 x 1 Fluminense
+18ª | 31/05 | Remo 1 x 0 São Paulo
+18ª | 31/05 | Palmeiras 1 x 0 Chapecoense
+18ª | 31/05 | Vasco 0 x 1 Atlético-MG
+18ª | 31/05 | Bragantino 3 x 1 Internacional
+18ª | 30/05 | Santos 3 x 1 Vitória
+18ª | 30/05 | Bahia 2 x 1 Botafogo
+18ª | 30/05 | Grêmio 1 x 3 Corinthians
+18ª | 30/05 | Athletico-PR 1 x 0 Mirassol
+18ª | 30/05 | Flamengo 3 x 0 Coritiba
+17ª | 25/05 | Coritiba 3 x 2 Bahia
+17ª | 24/05 | Vasco 0 x 3 Bragantino
+17ª | 24/05 | Corinthians 1 x 0 Atlético-MG
+17ª | 24/05 | Cruzeiro 2 x 1 Chapecoense
+17ª | 24/05 | Remo 1 x 2 Athletico-PR
+17ª | 23/05 | Flamengo 0 x 3 Palmeiras
+17ª | 23/05 | Grêmio 3 x 2 Santos
+17ª | 23/05 | Mirassol 1 x 0 Fluminense
+17ª | 23/05 | São Paulo 1 x 1 Botafogo
+17ª | 23/05 | Vitória 2 x 0 Internacional
+16ª | 17/05 | Athletico-PR 1 x 1 Flamengo
+16ª | 17/05 | Bragantino 2 x 0 Vitória
+16ª | 17/05 | Chapecoense 2 x 3 Remo
+16ª | 17/05 | Bahia 1 x 1 Grêmio
+16ª | 17/05 | Botafogo 3 x 1 Corinthians
+16ª | 17/05 | Santos 0 x 3 Coritiba
+16ª | 16/05 | Palmeiras 1 x 1 Cruzeiro
+16ª | 16/05 | Fluminense 2 x 1 São Paulo
+16ª | 16/05 | Atlético-MG 3 x 1 Mirassol
+16ª | 16/05 | Internacional 4 x 1 Vasco
+15ª | 10/05 | Vasco 1 x 0 Athletico-PR
+15ª | 10/05 | Grêmio 0 x 1 Flamengo
+15ª | 10/05 | Corinthians 3 x 2 São Paulo
+15ª | 10/05 | Mirassol 1 x 1 Chapecoense
+15ª | 10/05 | Santos 2 x 0 Bragantino
+15ª | 10/05 | Remo 1 x 1 Palmeiras
+15ª | 10/05 | Atlético-MG 1 x 1 Botafogo
+15ª | 09/05 | Bahia 1 x 2 Cruzeiro
+15ª | 09/05 | Fluminense 2 x 2 Vitória
+15ª | 09/05 | Coritiba 2 x 2 Internacional
+14ª | 03/05 | Mirassol 2 x 1 Corinthians
+14ª | 03/05 | Chapecoense 1 x 2 Bragantino
+14ª | 03/05 | Internacional 2 x 0 Fluminense
+14ª | 03/05 | Flamengo 2 x 2 Vasco
+14ª | 03/05 | São Paulo 2 x 2 Bahia
+14ª | 02/05 | Cruzeiro 1 x 3 Atlético-MG
+14ª | 02/05 | Athletico-PR 0 x 0 Grêmio
+14ª | 02/05 | Palmeiras 1 x 1 Santos
+14ª | 02/05 | Vitória 4 x 1 Coritiba
+14ª | 02/05 | Botafogo 1 x 2 Remo
+13ª | 26/04 | Atlético-MG 0 x 4 Flamengo
+13ª | 26/04 | Fluminense 2 x 1 Chapecoense
+13ª | 26/04 | Athletico-PR 3 x 1 Vitória
+13ª | 26/04 | Bragantino 0 x 1 Palmeiras
+13ª | 26/04 | Corinthians 1 x 0 Vasco
+13ª | 26/04 | Grêmio 1 x 0 Coritiba
+13ª | 25/04 | São Paulo 1 x 0 Mirassol
+13ª | 25/04 | Bahia 2 x 2 Santos
+13ª | 25/04 | Botafogo 2 x 2 Internacional
+13ª | 25/04 | Remo 0 x 1 Cruzeiro
+12ª | 19/04 | Flamengo 2 x 0 Bahia
+12ª | 19/04 | Bragantino 4 x 2 Remo
+12ª | 19/04 | Palmeiras 1 x 0 Athletico-PR
+12ª | 19/04 | Coritiba 2 x 0 Atlético-MG
+12ª | 19/04 | Santos 2 x 3 Fluminense
+12ª | 19/04 | Internacional 1 x 2 Mirassol
+12ª | 18/04 | Cruzeiro 2 x 0 Grêmio
+12ª | 18/04 | Vitória 0 x 0 Corinthians
+12ª | 18/04 | Chapecoense 1 x 4 Botafogo
+12ª | 18/04 | Vasco 2 x 1 São Paulo
+11ª | 12/04 | Corinthians 0 x 0 Palmeiras
+11ª | 12/04 | Cruzeiro 2 x 1 Bragantino
+11ª | 12/04 | Fluminense 1 x 2 Flamengo
+11ª | 12/04 | Botafogo 2 x 2 Coritiba
+11ª | 12/04 | Athletico-PR 2 x 0 Chapecoense
+11ª | 11/04 | Internacional 0 x 0 Grêmio
+11ª | 11/04 | Santos 1 x 0 Atlético-MG
+11ª | 11/04 | Mirassol 1 x 2 Bahia
+11ª | 11/04 | Remo 1 x 1 Vasco
+11ª | 11/04 | Vitória 2 x 0 São Paulo
+10ª | 05/04 | Grêmio 0 x 0 Remo
+10ª | 05/04 | Mirassol 0 x 1 Bragantino
+10ª | 05/04 | Bahia 1 x 2 Palmeiras
+10ª | 05/04 | Corinthians 0 x 1 Internacional
+10ª | 05/04 | Atlético-MG 2 x 1 Athletico-PR
+10ª | 05/04 | Flamengo 3 x 1 Santos
+10ª | 05/04 | Chapecoense 1 x 1 Vitória
+10ª | 04/04 | Vasco 1 x 2 Botafogo
+10ª | 04/04 | Coritiba 1 x 1 Fluminense
+10ª | 04/04 | São Paulo 4 x 1 Cruzeiro
+9ª | 02/04 | Bragantino 3 x 0 Flamengo
+9ª | 02/04 | Palmeiras 2 x 1 Grêmio
+9ª | 02/04 | Chapecoense 0 x 4 Atlético-MG
+9ª | 02/04 | Santos 2 x 0 Remo
+9ª | 01/04 | Fluminense 3 x 1 Corinthians
+9ª | 01/04 | Coritiba 1 x 1 Vasco
+9ª | 01/04 | Bahia 3 x 0 Athletico-PR
+9ª | 01/04 | Cruzeiro 3 x 0 Vitória
+9ª | 01/04 | Botafogo 3 x 2 Mirassol
+9ª | 01/04 | Internacional 1 x 1 São Paulo
+5ª | 29/03 | Athletico-PR 4 x 1 Botafogo
+5ª | 12/03 | Grêmio 1 x 1 Bragantino
+5ª | 12/03 | São Paulo 2 x 0 Chapecoense
+5ª | 12/03 | Vasco 2 x 1 Palmeiras
+5ª | 12/03 | Remo 0 x 2 Fluminense
+5ª | 11/03 | Corinthians 0 x 2 Coritiba
+5ª | 11/03 | Flamengo 2 x 0 Cruzeiro
+5ª | 11/03 | Bahia 1 x 1 Vitória
+5ª | 11/03 | Atlético-MG 1 x 0 Internacional
+5ª | 10/03 | Mirassol 2 x 2 Santos
+8ª | 22/03 | Corinthians 1 x 1 Flamengo
+8ª | 22/03 | Internacional 2 x 0 Chapecoense
+8ª | 22/03 | Vitória 1 x 0 Mirassol
+8ª | 22/03 | Athletico-PR 2 x 0 Coritiba
+8ª | 22/03 | Cruzeiro 0 x 0 Santos
+8ª | 22/03 | Remo 4 x 1 Bahia
+8ª | 22/03 | Vasco 2 x 1 Grêmio
+8ª | 21/03 | São Paulo 0 x 1 Palmeiras
+8ª | 21/03 | Fluminense 1 x 0 Atlético-MG
+8ª | 21/03 | Bragantino 1 x 2 Botafogo
+7ª | 19/03 | Chapecoense 0 x 0 Corinthians
+7ª | 19/03 | Flamengo 3 x 0 Remo
+7ª | 19/03 | Grêmio 2 x 0 Vitória
+7ª | 18/03 | Santos 1 x 2 Internacional
+7ª | 18/03 | Vasco 3 x 2 Fluminense
+7ª | 18/03 | Atlético-MG 1 x 0 São Paulo
+7ª | 18/03 | Mirassol 0 x 1 Coritiba
+7ª | 18/03 | Athletico-PR 2 x 1 Cruzeiro
+7ª | 18/03 | Bahia 2 x 0 Bragantino
+7ª | 18/03 | Palmeiras 2 x 1 Botafogo
+6ª | 16/03 | Chapecoense 1 x 1 Grêmio
+6ª | 15/03 | Bragantino 1 x 2 São Paulo
+6ª | 15/03 | Cruzeiro 3 x 3 Vasco
+6ª | 15/03 | Coritiba 1 x 0 Remo
+6ª | 15/03 | Palmeiras 1 x 0 Mirassol
+6ª | 15/03 | Fluminense 3 x 2 Athletico-PR
+6ª | 15/03 | Internacional 0 x 1 Bahia
+6ª | 15/03 | Santos 1 x 1 Corinthians
+6ª | 14/03 | Botafogo 0 x 3 Flamengo
+6ª | 14/03 | Vitória 2 x 0 Atlético-MG
+2ª | 19/02 | Athletico-PR 0 x 1 Corinthians
+2ª | 05/02 | Cruzeiro 1 x 2 Coritiba
+2ª | 05/02 | Vasco 1 x 1 Chapecoense
+2ª | 05/02 | Bahia 1 x 1 Fluminense
+2ª | 04/02 | Grêmio 5 x 3 Botafogo
+2ª | 04/02 | Palmeiras 5 x 1 Vitória
+2ª | 04/02 | Remo 2 x 2 Mirassol
+2ª | 04/02 | Santos 1 x 1 São Paulo
+2ª | 04/02 | Bragantino 1 x 0 Atlético-MG
+2ª | 04/02 | Flamengo 1 x 1 Internacional
+3ª | 12/02 | Internacional 1 x 3 Palmeiras
+3ª | 12/02 | Corinthians 2 x 0 Bragantino
+3ª | 12/02 | Fluminense 1 x 0 Botafogo
+3ª | 12/02 | Athletico-PR 2 x 1 Santos
+3ª | 11/02 | São Paulo 2 x 0 Grêmio
+3ª | 11/02 | Vasco 0 x 1 Bahia
+3ª | 11/02 | Atlético-MG 3 x 3 Remo
+3ª | 11/02 | Chapecoense 3 x 3 Coritiba
+3ª | 11/02 | Mirassol 2 x 2 Cruzeiro
+3ª | 10/02 | Vitória 1 x 2 Flamengo
+1ª | 29/01 | Botafogo 4 x 0 Cruzeiro
+1ª | 29/01 | Mirassol 2 x 1 Vasco
+1ª | 28/01 | São Paulo 2 x 1 Flamengo
+1ª | 28/01 | Chapecoense 4 x 2 Santos
+1ª | 28/01 | Corinthians 1 x 2 Bahia
+1ª | 28/01 | Fluminense 2 x 1 Grêmio
+1ª | 28/01 | Atlético-MG 2 x 2 Palmeiras
+1ª | 28/01 | Coritiba 0 x 1 Bragantino
+1ª | 28/01 | Internacional 0 x 1 Athletico-PR
+1ª | 28/01 | Vitória 2 x 0 Remo

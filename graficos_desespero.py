@@ -47,14 +47,13 @@ def efeito(Sv, Tv, lado):
     return Xg @ bb, np.sqrt(np.einsum("...i,ij,...j->...", Xg, Vs, Xg))
 
 
-# ---------------------------------------------------------------- 05: efeito estimado nos dados
 fig, axs = plt.subplots(1, 2, figsize=(12, 5), dpi=160, sharey=True)
 NIV = [(0.1, "ameaça baixa (T = 0,1)", "#86b6ef"), (0.5, "ameaça média (T = 0,5)", "#2a78d6"), (0.9, "ameaça alta (T = 0,9)", "#0d366b")]
 for ax, lado, titulo in ((axs[0], "pro", "Gols MARCADOS pelo clube"), (axs[1], "sof", "Gols SOFRIDOS pelo clube")):
     limpar_eixos(ax); ax.axhline(0, color=INK, lw=0.8)
     for Tv, rot, cor in NIV:
         perto = np.abs(T_h - Tv) < 0.12
-        smax = float(np.quantile(S_h[perto], 0.99)) if perto.sum() > 30 else 0.5   # só onde há dados
+        smax = float(np.quantile(S_h[perto], 0.99)) if perto.sum() > 30 else 0.5  
         Sg = np.linspace(0, smax, 60); e, sd = efeito(Sg, np.full_like(Sg, Tv), lado)
         ax.fill_between(Sg, 100 * (np.exp(e - 1.96 * sd) - 1), 100 * (np.exp(e + 1.96 * sd) - 1), color=cor, alpha=0.12, lw=0)
         ax.plot(Sg, 100 * (np.exp(e) - 1), color=cor, lw=2.2)
